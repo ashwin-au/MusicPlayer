@@ -35,10 +35,10 @@
 		CA4E338C2A057E0600B6A5B6 /* coldplay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E338B2A057E0600B6A5B6 /* coldplay.mp3 */; };
 		CA4E338E2A057E0D00B6A5B6 /* red.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E338D2A057E0D00B6A5B6 /* red.mp3 */; };
 		CA4E33902A057E2200B6A5B6 /* closer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E338F2A057E2200B6A5B6 /* closer.mp3 */; };
-		CA4E33922A0587E300B6A5B6 /* LSD.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E33912A0587E300B6A5B6 /* LSD.mp3 */; };
-		CA4E33972A0589ED00B6A5B6 /* sunflower.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E33932A0589ED00B6A5B6 /* sunflower.mp3 */; };
-		CA4E33992A0589ED00B6A5B6 /* watermelon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E33952A0589ED00B6A5B6 /* watermelon.mp3 */; };
-		CA4E339A2A0589ED00B6A5B6 /* calmdown.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CA4E33962A0589ED00B6A5B6 /* calmdown.mp3 */; };
+		CF697E372A0A020B007E3FB6 /* sunflower.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF697E332A0A020B007E3FB6 /* sunflower.mp3 */; };
+		CF697E382A0A020B007E3FB6 /* LSD.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF697E342A0A020B007E3FB6 /* LSD.mp3 */; };
+		CF697E392A0A020B007E3FB6 /* calmdown.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF697E352A0A020B007E3FB6 /* calmdown.mp3 */; };
+		CF697E3A2A0A020B007E3FB6 /* watermelon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CF697E362A0A020B007E3FB6 /* watermelon.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,10 +71,10 @@
 		CA4E338B2A057E0600B6A5B6 /* coldplay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = coldplay.mp3; sourceTree = "<group>"; };
 		CA4E338D2A057E0D00B6A5B6 /* red.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = red.mp3; sourceTree = "<group>"; };
 		CA4E338F2A057E2200B6A5B6 /* closer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = closer.mp3; sourceTree = "<group>"; };
-		CA4E33912A0587E300B6A5B6 /* LSD.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = LSD.mp3; path = ../../../../../../../Downloads/LSD.mp3; sourceTree = "<group>"; };
-		CA4E33932A0589ED00B6A5B6 /* sunflower.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sunflower.mp3; path = ../../../../../../../Downloads/sunflower.mp3; sourceTree = "<group>"; };
-		CA4E33952A0589ED00B6A5B6 /* watermelon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = watermelon.mp3; path = ../../../../../../../Downloads/watermelon.mp3; sourceTree = "<group>"; };
-		CA4E33962A0589ED00B6A5B6 /* calmdown.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = calmdown.mp3; path = "../../../../../../../Music/Music/Media.localized/Music/Naasongs.one/English Songs/calmdown.mp3"; sourceTree = "<group>"; };
+		CF697E332A0A020B007E3FB6 /* sunflower.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sunflower.mp3; sourceTree = "<group>"; };
+		CF697E342A0A020B007E3FB6 /* LSD.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = LSD.mp3; sourceTree = "<group>"; };
+		CF697E352A0A020B007E3FB6 /* calmdown.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = calmdown.mp3; sourceTree = "<group>"; };
+		CF697E362A0A020B007E3FB6 /* watermelon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = watermelon.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -237,10 +237,10 @@
 		CA4E33652A054AB700B6A5B6 /* Asset */ = {
 			isa = PBXGroup;
 			children = (
-				CA4E33962A0589ED00B6A5B6 /* calmdown.mp3 */,
-				CA4E33932A0589ED00B6A5B6 /* sunflower.mp3 */,
-				CA4E33952A0589ED00B6A5B6 /* watermelon.mp3 */,
-				CA4E33912A0587E300B6A5B6 /* LSD.mp3 */,
+				CF697E352A0A020B007E3FB6 /* calmdown.mp3 */,
+				CF697E342A0A020B007E3FB6 /* LSD.mp3 */,
+				CF697E332A0A020B007E3FB6 /* sunflower.mp3 */,
+				CF697E362A0A020B007E3FB6 /* watermelon.mp3 */,
 				CA4E338D2A057E0D00B6A5B6 /* red.mp3 */,
 				CA4E338F2A057E2200B6A5B6 /* closer.mp3 */,
 				CA4E338B2A057E0600B6A5B6 /* coldplay.mp3 */,
@@ -353,14 +353,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA4E33972A0589ED00B6A5B6 /* sunflower.mp3 in Resources */,
+				CF697E382A0A020B007E3FB6 /* LSD.mp3 in Resources */,
+				CF697E3A2A0A020B007E3FB6 /* watermelon.mp3 in Resources */,
 				CA4E33902A057E2200B6A5B6 /* closer.mp3 in Resources */,
-				CA4E339A2A0589ED00B6A5B6 /* calmdown.mp3 in Resources */,
 				CA4E33492A054A3300B6A5B6 /* Preview Assets.xcassets in Resources */,
 				CA4E33462A054A3300B6A5B6 /* Assets.xcassets in Resources */,
+				CF697E392A0A020B007E3FB6 /* calmdown.mp3 in Resources */,
 				CA4E338C2A057E0600B6A5B6 /* coldplay.mp3 in Resources */,
-				CA4E33992A0589ED00B6A5B6 /* watermelon.mp3 in Resources */,
-				CA4E33922A0587E300B6A5B6 /* LSD.mp3 in Resources */,
+				CF697E372A0A020B007E3FB6 /* sunflower.mp3 in Resources */,
 				CA4E338E2A057E0D00B6A5B6 /* red.mp3 in Resources */,
 				CA4E33832A05690A00B6A5B6 /* BlindingLights.mp3 in Resources */,
 			);
